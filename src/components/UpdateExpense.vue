@@ -178,9 +178,9 @@ const onSubmit = async () => {
       </button>
       <button
         type="submit"
-        class="rounded-md bg-primary px-4 py-2 text-primary-text outline-none cursor-pointer ml-2 text-sm md:text-base"
+        class="rounded-md bg-primary-text px-4 py-2 text-primary outline-none cursor-pointer ml-2 text-sm md:text-base"
       >
-        Add Expense
+        Update
       </button>
     </div>
   </form>
